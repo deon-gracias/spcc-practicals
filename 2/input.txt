@@ -1,0 +1,9 @@
+int a ;
+float b = 10.2 ;
+char ch = 'z' ;
+char d = "strings" ;
+int e = a * b ;
+int f = a * 0.5 ;
+string f = "crce" ;
+$name ;
+double g = 11.09 ;
